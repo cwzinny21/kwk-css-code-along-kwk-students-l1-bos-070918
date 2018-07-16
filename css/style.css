@@ -1,1 +1,18 @@
 /* add CSS class and element and selectors here */
+
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+
+body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+    .myClass {
+      background-color: lightblue;
+      color: pink;
+      font-family: Merienda;
+      font-size:300%;
+    }
+    
+    
+   
